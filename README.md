@@ -1,4 +1,4 @@
-<img width="1500" height="400" alt="banner" src="https://github.com/user-attachments/assets/263e36e3-3e3f-4234-853d-aa953ee6e16a" />
+<img width="1500" height="1000" alt="banner" src="https://github.com/user-attachments/assets/263e36e3-3e3f-4234-853d-aa953ee6e16a" />
 <h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
 <h3 align="center">Motivated B.Tech Information Technology undergraduate with strong foundations in programming and data structures. Seeking an entry-level opportunity to apply technical skills and contribute to organizational growth</h3>
 <img align="right" alt="coding" width="400" 
