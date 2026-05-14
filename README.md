@@ -3,7 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Divyansh%20Mishra&fontAlign=50&fontAlignY=38&fontSize=60&desc=Aspiring%20Software%20Engineer%20|%20MERN%20Stack%20Developer&descAlignY=62"/>
 
 </div>
-<h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
+<h1 align="center"></h1>
+# Hi 👋, I'm Divyansh Mishra
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Divyansh+Mishra;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
+    alt="Typing SVG"
+  />
+</p>
 <h3 align="center">Motivated B.Tech Information Technology undergraduate with strong foundations in programming and data structures. Seeking an entry-level opportunity to apply technical skills and contribute to organizational growth</h3>
 <img align="right" alt="coding" width="400" 
 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
